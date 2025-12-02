@@ -20,7 +20,60 @@ Developing the frame was done through deconstructing spare fence scraps we had l
 <img src="Images/Fence.jpg " width="500" height="500"/>
 <img src="Images/FenceTube.jpg " width="500" height="500"/>
 
-These beams were assembled on the floor and welded together.
+These beams were assembled on the floor and welded together. (us very proud of our welding)
 <img src="Images/HoldingFrame.jpg " width="500" height="500"/>
 
-// add amazon links to wheels and axle
+
+
+rear axle assembly:
+
+The axle I used was from amazon a cheap rear axle that included the bearings, gear, brake disk and brakes.
+The wheels were thick off road atv wheels with the correct dimensions for the rear hubs.
+axle: https://www.amazon.com.au/dp/B0FGCMD8QM?ref=ppx_yo2ov_dt_b_fed_asin_title
+wheels: https://www.amazon.com.au/dp/B0CTM1DJ66?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+<img src="Images/Wheel.jpg " width="500" height="500"/>
+<img src="Images/KartRearWheels.jpg " width="500" height="500"/>
+
+
+
+spindle version 1:
+Whilst developing the kart I spent time looking into how other people had developed their go karts and after alot if research I released the steering system used for most the karts wasnt as complicated as I thought.
+The website below shows a very straight forward way to make the steering spindles at home.
+// INSPIRATION FROM THIS WEBSITE https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
+
+<img src="Images/SpindlePart1.jpg " width="500" height="500"/>
+<img src="Images/SpindlePart2.jpg " width="500" height="500"/>
+<img src="Images/spindlePartsSpread.jpg " width="500" height="500"/>
+<img src="Images/trampolinePipe.jpg " width="500" height="500"/>
+<img src="Images/spindlePipe.jpg " width="500" height="500"/>
+<img src="Images/trolleyPart.jpg " width="500" height="500"/>
+<img src="Images/allSpindleParts.jpg " width="500" height="500"/>
+<img src="Images/spindleFinished.jpg " width="500" height="500"/>
+<img src="Images/attachedSpindle.jpg " width="500" height="500"/>
+
+<img src="Images/KartPrototypeWheels.jpg " width="500" height="500"/>
+After attaching the wheels and the spindels to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
+
+
+spindle version 2:
+<img src="Images/newSpindlePart1.jpg " width="500" height="500"/>
+<img src="Images/newSpindleWelding.jpg " width="500" height="500"/>
+<img src="Images/newSpindleHoles.jpg " width="500" height="500"/>
+<img src="Images/newSpindleFinished.jpg " width="500" height="500"/>
+<img src="Images/newSpindleAttached.jpg " width="500" height="500"/>
+<img src="Images/newSpindleSupport.jpg " width="500" height="500"/>
+
+
+<img src="Images/frontWheelAxle.jpg " width="500" height="500"/>
+<img src="Images/frontWheelHub.jpg " width="500" height="500"/>
+front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+
+<img src="Images/frontWheelsAttached.jpg " width="500" height="500"/>
+<img src="Images/KartAssemblyWithSeat.jpg " width="500" height="500"/>
+
+
+
+// Brakes
+
+// Engine
