@@ -32,7 +32,7 @@ The wheels were thick off road atv wheels with the correct dimensions for the re
 axle: https://www.amazon.com.au/dp/B0FGCMD8QM?ref=ppx_yo2ov_dt_b_fed_asin_title
 wheels: https://www.amazon.com.au/dp/B0CTM1DJ66?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 <img src="Images/Wheel.jpg " width="500" height="500"/>
-<img src="Images/KartRearWheels.jpg " width="500" height="500"/>
+<img src="Images/RearWheels.jpg " width="500" height="500"/>
 
 
 
