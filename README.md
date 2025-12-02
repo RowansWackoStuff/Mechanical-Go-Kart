@@ -13,7 +13,7 @@ Starting with a rough sketch i took inspiration for the old green machine vehicl
 I chose this as at the time the go kart steering with spindles and tie rodes looked too complicated to me at the time so I chose to avoid them
 <img src="Images/Sketch.jpg " width="500" height="500"/>
 
-With the sketch developed I refined a better sketch uusing solidworks developing a 3D model of the kart using an axle I purchased online as the reference for the width and height.
+With the sketch developed I refined a better sketch using solidworks developing a 3D model of the kart using an axle I purchased online as the reference for the width and height.
 <img src="Images/SolidworksSketch.jpg " width="500" height="500"/>
 
 Developing the frame was done through deconstructing spare fence scraps we had lying around and cutting them into several beams.
@@ -32,25 +32,32 @@ The wheels were thick off road atv wheels with the correct dimensions for the re
 axle: https://www.amazon.com.au/dp/B0FGCMD8QM?ref=ppx_yo2ov_dt_b_fed_asin_title
 wheels: https://www.amazon.com.au/dp/B0CTM1DJ66?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 <img src="Images/Wheel.jpg " width="500" height="500"/>
-<img src="Images/RearWheels.jpg " width="500" height="500"/>
+<img src="Images/KartRearWheels.jpg " width="500" height="500"/>
 
 
 
 spindle version 1:
 Whilst developing the kart I spent time looking into how other people had developed their go karts and after alot if research I released the steering system used for most the karts wasnt as complicated as I thought.
 The website below shows a very straight forward way to make the steering spindles at home.
-// INSPIRATION FROM THIS WEBSITE https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
+https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
 
-<img src="Images/SpindlePart1.jpg " width="500" height="500"/>
-<img src="Images/SpindlePart2.jpg " width="500" height="500"/>
+Using a larged fence post frame the hinge was cut and drilled.
+<img src="Images/SpindlePart1.jpg " width="500" height="500"/>   
+
+Using an old pipe and bolt the hinge now could rotate.
 <img src="Images/spindlePartsSpread.jpg " width="500" height="500"/>
+<img src="Images/SpindlePart2.jpg " width="500" height="500"/>
+
+Using an old trampoline leg (which just turned out to be the same size diameter as the bearings on the bunnings wheels i found) I attached the pipe to form the front axle,
 <img src="Images/TrampolinePipe.jpg " width="500" height="500"/>
 <img src="Images/SpindlePipe.jpg " width="500" height="500"/>
+
+I cut straight peices from this old moving dolley to add to the spindles for the steering platees
 <img src="Images/TrolleyPart.jpg " width="500" height="500"/>
 <img src="Images/allSpindleParts.jpg " width="500" height="500"/>
+After all the parts were cut and assemble they were welded together to form the front steering spindles.
 <img src="Images/spindleFinished.jpg " width="500" height="500"/>
 <img src="Images/attachedSpindle.jpg " width="500" height="500"/>
-
 <img src="Images/KartPrototypeWheels.jpg " width="500" height="500"/>
 After attaching the wheels and the spindels to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
 
