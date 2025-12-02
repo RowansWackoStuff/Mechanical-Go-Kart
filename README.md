@@ -44,9 +44,9 @@ The website below shows a very straight forward way to make the steering spindle
 <img src="Images/SpindlePart1.jpg " width="500" height="500"/>
 <img src="Images/SpindlePart2.jpg " width="500" height="500"/>
 <img src="Images/spindlePartsSpread.jpg " width="500" height="500"/>
-<img src="Images/trampolinePipe.jpg " width="500" height="500"/>
-<img src="Images/spindlePipe.jpg " width="500" height="500"/>
-<img src="Images/trolleyPart.jpg " width="500" height="500"/>
+<img src="Images/TrampolinePipe.jpg " width="500" height="500"/>
+<img src="Images/SpindlePipe.jpg " width="500" height="500"/>
+<img src="Images/TrolleyPart.jpg " width="500" height="500"/>
 <img src="Images/allSpindleParts.jpg " width="500" height="500"/>
 <img src="Images/spindleFinished.jpg " width="500" height="500"/>
 <img src="Images/attachedSpindle.jpg " width="500" height="500"/>
@@ -57,10 +57,10 @@ After attaching the wheels and the spindels to the kart I sat my fat ass on the 
 
 spindle version 2:
 <img src="Images/newSpindlePart1.jpg " width="500" height="500"/>
-<img src="Images/newSpindleWelding.jpg " width="500" height="500"/>
-<img src="Images/newSpindleHoles.jpg " width="500" height="500"/>
+<img src="Images/newSpindlePart1Welding.jpg " width="500" height="500"/>
+<img src="Images/newSPindleHoles.jpg " width="500" height="500"/>
 <img src="Images/newSpindleFinished.jpg " width="500" height="500"/>
-<img src="Images/newSpindleAttached.jpg " width="500" height="500"/>
+<img src="Images/newSpindlesAttached.jpg " width="500" height="500"/>
 <img src="Images/newSpindleSupport.jpg " width="500" height="500"/>
 
 
