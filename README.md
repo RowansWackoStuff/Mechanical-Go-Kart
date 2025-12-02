@@ -16,6 +16,8 @@ I chose this as at the time the go kart steering with spindles and tie rodes loo
 With the sketch developed I refined a better sketch using solidworks developing a 3D model of the kart using an axle I purchased online as the reference for the width and height.
 <img src="Images/SolidworksSketch.jpg " width="500" height="500"/>
 
+## Frame
+
 Developing the frame was done through deconstructing spare fence scraps we had lying around and cutting them into several beams.
 <img src="Images/Fence.jpg " width="500" height="500"/>
 <img src="Images/FenceTube.jpg " width="500" height="500"/>
@@ -23,20 +25,20 @@ Developing the frame was done through deconstructing spare fence scraps we had l
 These beams were assembled on the floor and welded together. (us very proud of our welding)
 <img src="Images/HoldingFrame.jpg " width="500" height="500"/>
 
+<br>
 
-
-rear axle assembly:
+## Rear axle assembly:
 
 The axle I used was from amazon a cheap rear axle that included the bearings, gear, brake disk and brakes.
 The wheels were thick off road atv wheels with the correct dimensions for the rear hubs.
 axle: https://www.amazon.com.au/dp/B0FGCMD8QM?ref=ppx_yo2ov_dt_b_fed_asin_title
 wheels: https://www.amazon.com.au/dp/B0CTM1DJ66?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 <img src="Images/Wheel.jpg " width="500" height="500"/>
-<img src="Images/KartRearWheels.jpg " width="500" height="500"/>
+<img src="Images/RearWheels.jpg " width="500" height="500"/>
 
 
 
-spindle version 1:
+## spindle version 1:
 Whilst developing the kart I spent time looking into how other people had developed their go karts and after alot if research I released the steering system used for most the karts wasnt as complicated as I thought.
 The website below shows a very straight forward way to make the steering spindles at home.
 https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
@@ -62,25 +64,29 @@ After all the parts were cut and assemble they were welded together to form the 
 After attaching the wheels and the spindels to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
 
 
-spindle version 2:
+## spindle version 2:
+The goal for the second set of spindels was to make them as strong as possible. We went to bunnings and used thick steel beams for the outer hinge, new steel pipe for the inner hinge and new bolts and steel for the axle and steering rod.
 <img src="Images/newSpindlePart1.jpg " width="500" height="500"/>
 <img src="Images/newSpindlePart1Welding.jpg " width="500" height="500"/>
+(This steel took upwards of 10 minutes to drill each hole... I recommend getting a better drill and drill bits than I had)
 <img src="Images/newSPindleHoles.jpg " width="500" height="500"/>
 <img src="Images/newSpindleFinished.jpg " width="500" height="500"/>
 <img src="Images/newSpindlesAttached.jpg " width="500" height="500"/>
+Another issue with the previous spindles was that during their short life spand they would spin while the kart was moving. To solve this issue we added an additional straight support beam to stop rotation.
 <img src="Images/newSpindleSupport.jpg " width="500" height="500"/>
 
-
+In addition to new spindles we chose to swap the front wheels for the same wheels as the exterior as they had better grip with the downside of having to order new wheel hubs.
+After a grooling 2 week wait the front wheel hubs arrived and they could be attached to the bolts to form the front axles. 
 <img src="Images/frontWheelAxle.jpg " width="500" height="500"/>
 <img src="Images/frontWheelHub.jpg " width="500" height="500"/>
 front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_title
-
-
 <img src="Images/frontWheelsAttached.jpg " width="500" height="500"/>
+
+With a new seat added the kart was starting to look more entertaining 
 <img src="Images/KartAssemblyWithSeat.jpg " width="500" height="500"/>
 
 
 
-// Brakes
+## Brakes
 
-// Engine
+## Engine
