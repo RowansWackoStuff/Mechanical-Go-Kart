@@ -64,36 +64,44 @@ https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
 
 <br>
 - After all the parts were cut and assemble they were welded together to form the front steering spindles.
-<div><img src="Images/spindleFinished.jpg " width="50%"/><img src="Images/attachedSpindle.jpg " width="50%"/></div>
-<img src="Images/KartPrototypeWheels.jpg " width="500" height="500"/> 
+<div><img src="Images/spindleFinished.jpg " width="50%" height="300px"/><img src="Images/attachedSpindle.jpg " width="50%" height="300px"/></div>
+<div align="center"><img src="Images/KartPrototypeWheels.jpg " width="500" height="500"/> </div>
 After attaching the wheels and the spindels to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
 
 
 ## spindle version 2:
-<div>
 The goal for the second set of spindels was to make them as strong as possible. We went to bunnings and used thick steel beams for the outer hinge, new steel pipe for the inner hinge and new bolts and steel for the axle and steering rod.
-</div>
+
 <div>
-<img src="Images/newSpindlePart1.jpg " width="49%"/>
-<img src="Images/newSpindlePart1Welding.jpg " width="49%"/>
+<img src="Images/newSpindlePart1.jpg " width="50%"/><img src="Images/newSpindlePart1Welding.jpg " width="50%"/>
 </div>
 
 (This steel took upwards of 10 minutes to drill each hole... I recommend getting a better drill and drill bits than I had)
-<img src="Images/newSPindleHoles.jpg " width="500" height="500"/>
-<img src="Images/newSpindleFinished.jpg " width="500" height="500"/>
-<img src="Images/newSpindlesAttached.jpg " width="500" height="500"/>
+<div>
+<img src="Images/newSPindleHoles.jpg " width="50%"/><img src="Images/newSpindleFinished.jpg " width="50%"/>
+</div>
+
+<div align="center">
+<img src="Images/newSpindlesAttached.jpg " width="50%"/>
+</div>
+
 Another issue with the previous spindles was that during their short life spand they would spin while the kart was moving. To solve this issue we added an additional straight support beam to stop rotation.
-<img src="Images/newSpindleSupport.jpg " width="500" height="500"/>
+<div align="center">
+<img src="Images/newSpindleSupport.jpg " width="50%"/>
+</div>
 
 In addition to new spindles we chose to swap the front wheels for the same wheels as the exterior as they had better grip with the downside of having to order new wheel hubs.
 After a grooling 2 week wait the front wheel hubs arrived and they could be attached to the bolts to form the front axles. 
-<img src="Images/frontWheelAxle.jpg " width="500" height="500"/>
-<img src="Images/frontWheelHub.jpg " width="500" height="500"/>
 front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_title
-<img src="Images/frontWheelsAttached.jpg " width="500" height="500"/>
+<div>
+<img src="Images/frontWheelAxle.jpg " width="50%"/><img src="Images/frontWheelHub.jpg " width="50%"/>
+</div>
 
-With a new seat added the kart was starting to look more entertaining 
-<img src="Images/KartAssemblyWithSeat.jpg " width="500" height="500"/>
+<div align="center">
+<img src="Images/frontWheelsAttached.jpg " width="50%"/>
+<img src="Images/KartAssemblyWithSeat.jpg " width="50%"/>
+</div>
+
 
 
 
