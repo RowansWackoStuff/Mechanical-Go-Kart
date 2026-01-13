@@ -97,6 +97,14 @@ front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_
 
 <div align="center">
 <img src="Images/frontWheelsAttached.jpg " width="50%"/>
+</div>
+
+
+<div align="center">
+Added two additional horizontal bars to the frame and bolted a seat.
+</div>
+
+<div align="center">
 <img src="Images/KartAssemblyWithSeat.jpg " width="50%"/>
 </div>
 
