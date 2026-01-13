@@ -104,69 +104,84 @@ front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_
 
 
 ## Steering
+The steering of the kart is done by twisting the spindles through a connecting beam. this beam rotates from the column of the kart. The screw holding it in place has to be loose in order for the steering beam to be able to go up and down. The steering wheel is a cut off handle from a moving dolly.
+
 <div>
 <img src="Images/January progress/SteeringPole.jpg " width="50%"/><img src="Images/January progress/SteeringL.jpg " width="50%"/>
-<img src="Images/January progress/SpindleToSteering.jpg " width="50%"/><img src="Images/January progress/CompleteL.jpg " width="50%"/>
-<img src="Images/January progress/CompleteSpindleSteering.jpg " width="50%"/><img src="Images/January progress/SteeringWheel.jpg " width="50%"/>
+<img src="Images/January progress/CompleteL.jpg " width="50%"/><img src="Images/January progress/CompleteSpindleSteering.jpg " width="50%"/>
+<img src="Images/January progress/SpindleToSteering.jpg " width="50%"/><img src="Images/January progress/SteeringWheel.jpg " width="50%"/>
 </div>
 
 
 ## Brakes
+The hydaulic brake was a pain but after bleeding it worked perfectly. Pushing the peddle against the levver allows the fluid to compress the brake disk.
 <div>
-  
-<img src="Images/January progress/HydaulicBrakes.jpg " width="50%"/>
-<img src="Images/January progress/BrakeMount1.jpg " width="50%"/><img src="Images/January progress/BrakeMount2.jpg " width="50%"/>
-<img src="Images/January progress/BrakeMount4.jpg " width="50%"/><img src="Images/January progress/BrakePeddle.jpg " width="50%"/>
+<img src="Images/January progress/BrakePeddle.jpg " width="50%"/><img src="Images/January progress/HydaulicBrakes.jpg " width="50%"/>
+<img src="Images/January progress/BrakeMount4.jpg " width="50%"/><img src="Images/January progress/BrakeMount1.jpg " width="50%"/>
 </div>
 
-## Engine/'s
 
-<div>
-<img src="Images/January progress/EngineMounts.jpg " width="50%"/>
-</div>
-
+## Engine 1
+The first engine attempt was a direct driven mower engine.
 <div>
 <img src="Images/January progress/Engine1Mounted.jpg " width="50%"/><img src="Images/January progress/Engine1Complete.jpg" width="50%"/>
 </div>
 
-<div>
+## Sand Casting
+The engine didnt come with a sprocket and no store sold one that fit the chain of the kart. To solve this my dad and I attempted to sand cast a sprocket from aluminium.
+
+<div align="center">
 <img src="Images/January progress/SandCasting.jpg " width="50%"/>
-<img src="Images/January progress/SandCast1.jpg " width="50%"/>
-<img src="Images/January progress/SandCast2.jpg " width="50%"/>
-<img src="Images/January progress/SandCast3.jpg " width="50%"/>
-<img src="Images/January progress/SandCast4.jpg " width="50%"/>
-<img src="Images/January progress/SandCast5.jpg " width="50%"/>
 </div>
 
+Attempt 1:
 <div>
-<img src="Images/January progress/SandCastMount1.jpg " width="50%"/>
-<img src="Images/January progress/SandCastMount2.jpg " width="50%"/>
+<img src="Images/January progress/SandCast2.jpg " width="50%"/><img src="Images/January progress/SandCast3.jpg " width="50%"/>
 </div>
 
+Attempt 2:
 <div>
-<img src="Images/January progress/EngineExhaust.jpg " width="50%"/>
-<img src="Images/January progress/Engine2Complete1.jpg " width="50%"/>
-<img src="Images/January progress/Engine2Complete2.jpg " width="50%"/>
-<img src="Images/January progress/Engine2Complete3.jpg " width="50%"/>
+<img src="Images/January progress/SandCast4.jpg " width="50%"/><img src="Images/January progress/SandCast5.jpg " width="50%"/>
 </div>
 
 
+After applying the sprocket the engine had power but no clutch casuing it to stall on every drive attempt.
+<div>
+<img src="Images/January progress/SandCastMount2.jpg " width="50%"/><img src="Images/January progress/SandCastMount1.jpg " width="50%"/>
+</div>
+
+## Engine 2
+The second engine was a small 50cc engine with an internal clutch allowing for the first successful drive. 
+<div align="center">
+<img src="Images/January progress/Engine2Complete3.jpg " width="75%"/>
+</div>
 // PUT MINIENGINE VIDEO HERE
-// PUT WHEEL FALL OFF VIDEO HERE
 
+The problem was that this engine was too weak and struggle to go up hill.
+
+## Engine 3
+The final engine was a 210cc, 7hp 4 stroke with an included clutch, sprocket and chain.
 <div>
-<img src="Images/January progress/Engine3.jpg " width="50%"/>
-<img src="Images/January progress/Engine3Complete.jpg " width="50%"/>
-<img src="Images/January progress/Engine3Comparison " width="50%"/>
+<img src="Images/January progress/Engine3.jpg " width="50%"/><img src="Images/January progress/Engine3Complete.jpg " width="50%"/>
 </div>
 
-<div>
-<img src="Images/January progress/ThrottleCable1.jpg " width="50%"/>
-<img src="Images/January progress/ThrottleCable2.jpg " width="50%"/>
-</div>
+## Throttle 
+The throttle is linked through a cable connecting the peddle and the engine throttle gauge. The engine spring allows the peddle to come back and forth when pressed.
 
 <div>
-<img src="Images/January progress/GoKartFinal.jpg " width="50%"/>
+<img src="Images/January progress/Accelerator.jpg " width="33%"/><img src="Images/January progress/ThrottleCable1.jpg " width="33%"/><img src="Images/January progress/ThrottleCable2.jpg " width="33%"/>
 </div>
+
+# FINISHED
+
+<div align="center">
+<img src="Images/January progress/GoKartFinal.jpg "/>
+</div>
+
+# Next time:
+The next go kart
+- improved steerining using tie rods
+- thicker frame steel
+- more secure spindle
 
 
