@@ -1,15 +1,14 @@
 # Mechanical-Go-Kart
-This project is a mechanical go kart I spent the holidays builting from garage scraps and ordered parts.
-
-My goal was to develop an offroad go kart I could take on my new years camping trip with my mates.
+This project is a mechanical go kart I spent the holidays builting from garage scraps and ordered parts. My goal was to develop an offroad go kart I could take on my new years camping trip with my mates.
 
 Goals:
 - must fit in the boot of my car
 - must be able to go at a fast speed (approximatly 20km/h)
 - must have functional brakes and accelerator
 - must support my body weight + weight of any friends who want to ride
+- Finished before new years trip
 
-Starting with a rough sketch i took inspiration for the old green machine vehicles with 2 levers used for steering on the side.
+Starting with a rough sketch I took inspiration for the old green machine vehicles with 2 levers used for steering on the side.
 I chose this as at the time the go kart steering with spindles and tie rodes looked too complicated to me at the time so I chose to avoid them
 <div align="center">
 <img src="Images/Sketch.jpg " width="50%"/>
@@ -28,7 +27,7 @@ Developing the frame was done through deconstructing spare fence scraps we had l
 <img src="Images/Fence.jpg " width="50%"/><img src="Images/FenceTube.jpg " width="50%"/>
 </div>
 
-These beams were assembled on the floor and welded together. (us very proud of our welding)
+These beams were assembled on the floor and welded together. (my mate and I very proud of our welding)
 <div align="center">
 <img src="Images/HoldingFrame.jpg " width="50%"/>
 </div>
@@ -46,7 +45,7 @@ wheels: https://www.amazon.com.au/dp/B0CTM1DJ66?ref=ppx_yo2ov_dt_b_fed_asin_titl
 
 
 ## spindle version 1:
-Whilst developing the kart I spent time looking into how other people had developed their go karts and after alot if research I released the steering system used for most the karts wasnt as complicated as I thought.
+Whilst developing the kart I spent time looking into how other people had developed their go karts and after alot of research I released the steering system used for most the karts wasnt as complicated as I thought.
 The website below shows a very straight forward way to make the steering spindles at home.
 https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
 
@@ -56,17 +55,16 @@ https://www.diygokarts.com/kart-plans/steering-plan-spindles.html
 <img src="Images/SpindlePart1.jpg " width="33%"/><img src="Images/spindlePartsSpread.jpg " width="33%"/><img src="Images/SpindlePart2.jpg " width="33%" />
 </div>
 
-- Using an old trampoline leg (which just turned out to be the same size diameter as the bearings on the bunnings wheels i found) I attached the pipe to form the front axle,
+- Using an old trampoline leg (which just turned out to be the same size diameter as the bearings on the bunnings wheels i found) I attached the pipe to form the front axle.
 <div><img src="Images/TrampolinePipe.jpg " width="50%"/><img src="Images/SpindlePipe.jpg " width="50%"/></div>
 
 - I cut straight pieces from this old moving dolley to add to the spindles for the steering plates
 <div><img src="Images/TrolleyPart.jpg " width="50%"/><img src="Images/allSpindleParts.jpg " width="50%"/></div>
 
-<br>
 - After all the parts were cut and assemble they were welded together to form the front steering spindles.
 <div><img src="Images/spindleFinished.jpg " width="50%" height="300px"/><img src="Images/attachedSpindle.jpg " width="50%" height="300px"/></div>
 <div align="center"><img src="Images/KartPrototypeWheels.jpg " width="500" height="500"/> </div>
-After attaching the wheels and the spindels to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
+After attaching the wheels and the spindles to the kart I sat my fat ass on the kart and rolled for 5 meters before the spindles bent and permently disfigured...
 
 
 ## spindle version 2:
@@ -122,14 +120,12 @@ The hydaulic brake was a pain but after bleeding it worked perfectly. Pushing th
 
 
 ## Engine 1
-The first engine attempt was a direct driven mower engine.
+The first engine attempt was a direct driven mower engine. The engine didnt come with a sprocket and no store sold one that fit the chain of the kart. To solve this my dad and I attempted to sand cast a sprocket from aluminium.
 <div>
 <img src="Images/January progress/Engine1Mounted.jpg " width="50%"/><img src="Images/January progress/Engine1Complete.jpg" width="50%"/>
 </div>
 
 ## Sand Casting
-The engine didnt come with a sprocket and no store sold one that fit the chain of the kart. To solve this my dad and I attempted to sand cast a sprocket from aluminium.
-
 <div align="center">
 <img src="Images/January progress/SandCasting.jpg " width="50%"/>
 </div>
@@ -151,16 +147,19 @@ After applying the sprocket the engine had power but no clutch casuing it to sta
 </div>
 
 ## Engine 2
-The second engine was a small 50cc engine with an internal clutch allowing for the first successful drive. 
+The second engine was a small 50cc engine with an internal clutch allowing for the first successful drive. The problem was that this engine was too weak and struggle to go up hill (and the clutch stank up a storm)
 <div align="center">
 <img src="Images/January progress/Engine2Complete3.jpg " width="75%"/>
 </div>
-// PUT MINIENGINE VIDEO HERE
 
-The problem was that this engine was too weak and struggle to go up hill.
+<div align="center">
+<img src="Images/January progress/Videos/MiniEngineVideo.gif" alt="Alt text" width="30%" />
+</div>
+
+
 
 ## Engine 3
-The final engine was a 210cc, 7hp 4 stroke with an included clutch, sprocket and chain.
+The final engine was a 210cc, 7hp 4 stroke with an included clutch, sprocket and chain. This engine worked like a charm applying enougn power to move (FAST) and the clutch operated perfectly for starting and stopping.
 <div>
 <img src="Images/January progress/Engine3.jpg " width="50%"/><img src="Images/January progress/Engine3Complete.jpg " width="50%"/>
 </div>
@@ -178,10 +177,25 @@ The throttle is linked through a cable connecting the peddle and the engine thro
 <img src="Images/January progress/GoKartFinal.jpg "/>
 </div>
 
+<div align="center">
+<img src="Images/January progress/Videos/GoKartFinalVideo.gif" alt="Alt text" width="40%" />
+</div>
+
+# Conclusion
+Goals:
+- must fit in the boot of my car ✅
+- must be able to go at a fast speed (approximatly 20km/h) ✅
+- must have functional brakes and accelerator ✅
+- must support my body weight + weight of any friends who want to ride ✅
+- Finished before new years trip ❌
+  
+Unfortunately I was only able to complete the kart a week after I returned from my trip😢
+
 # Next time:
-The next go kart
-- improved steerining using tie rods
+- improved steering using tie rods
 - thicker frame steel
 - more secure spindle
+
+THANKS FOR READING
 
 
