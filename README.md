@@ -103,8 +103,70 @@ front hubs: https://www.amazon.com.au/dp/B0FTB4MBCH?ref=ppx_yo2ov_dt_b_fed_asin_
 </div>
 
 
+## Steering
+<div>
+<img src="Images/January progress/SteeringPole.jpg " width="50%"/><img src="Images/January progress/SteeringL.jpg " width="50%"/>
+<img src="Images/January progress/SpindleToSteering.jpg " width="50%"/><img src="Images/January progress/CompleteL.jpg " width="50%"/>
+<img src="Images/January progress/CompleteSpindleSteering.jpg " width="50%"/><img src="Images/January progress/SteeringWheel.jpg " width="50%"/>
+</div>
 
 
 ## Brakes
+<div>
+  
+<img src="Images/January progress/HydaulicBrakes.jpg " width="50%"/>
+<img src="Images/January progress/BrakeMount1.jpg " width="50%"/><img src="Images/January progress/BrakeMount2.jpg " width="50%"/>
+<img src="Images/January progress/BrakeMount4.jpg " width="50%"/><img src="Images/January progress/BrakePeddle.jpg " width="50%"/>
+</div>
 
-## Engine
+## Engine/'s
+
+<div>
+<img src="Images/January progress/EngineMounts.jpg " width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/Engine1Mounted.jpg " width="50%"/><img src="Images/January progress/Engine1Complete.jpg" width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/SandCasting.jpg " width="50%"/>
+<img src="Images/January progress/SandCast1.jpg " width="50%"/>
+<img src="Images/January progress/SandCast2.jpg " width="50%"/>
+<img src="Images/January progress/SandCast3.jpg " width="50%"/>
+<img src="Images/January progress/SandCast4.jpg " width="50%"/>
+<img src="Images/January progress/SandCast5.jpg " width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/SandCastMount1.jpg " width="50%"/>
+<img src="Images/January progress/SandCastMount2.jpg " width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/EngineExhaust.jpg " width="50%"/>
+<img src="Images/January progress/Engine2Complete1.jpg " width="50%"/>
+<img src="Images/January progress/Engine2Complete2.jpg " width="50%"/>
+<img src="Images/January progress/Engine2Complete3.jpg " width="50%"/>
+</div>
+
+
+// PUT MINIENGINE VIDEO HERE
+// PUT WHEEL FALL OFF VIDEO HERE
+
+<div>
+<img src="Images/January progress/Engine3.jpg " width="50%"/>
+<img src="Images/January progress/Engine3Complete.jpg " width="50%"/>
+<img src="Images/January progress/Engine3Comparison " width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/ThrottleCable1.jpg " width="50%"/>
+<img src="Images/January progress/ThrottleCable2.jpg " width="50%"/>
+</div>
+
+<div>
+<img src="Images/January progress/GoKartFinal.jpg " width="50%"/>
+</div>
+
+
